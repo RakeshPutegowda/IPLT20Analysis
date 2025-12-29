@@ -103,7 +103,10 @@ The training helped strengthen my understanding of DAX, data modeling, and dashb
 ---
 
 ## 📸 Dashboard Preview
-_Add screenshots of your final dashboard here_
+
+<img width="1158" height="643" alt="image" src="https://github.com/user-attachments/assets/c0b75f0f-4f47-42e9-9513-583b3f91aa43" />
+
+(https://app.powerbi.com/view?r=eyJrIjoiZmUyMTlkNmEtOWRjNC00NDJlLTk2OWYtMDNlYjExNjU4NWFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
